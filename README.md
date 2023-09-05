@@ -1,11 +1,13 @@
 # DASHBOARD FOR IPL STATISTICS
 This dashboard for IPL (Indian Premier League) statistics signifies a visual representation or interface that provides comprehensive and real-time information about various statistical aspects of the IPL. It serves as a centralized platform for presenting data and insights related to matches, players, teams, and overall tournament performance. The dashboard may include various interactive elements and visualizations such as Graphs, Charts, Slicers, Fliters and KPI cards to help users understand and analyze the data effectively.
 
+![mera DB](https://github.com/hritik2614/IPL_Dashboard/assets/139587291/3148d112-6762-4c25-bf01-fe680aac8aad)
 
-![mera DB](https://github.com/Dishamewara/IPL_DASHBOARD/assets/103510169/3f9172a0-fb78-42f8-99b4-7bdf0f10a1ae)
 
 
-![mera DB 2](https://github.com/Dishamewara/IPL_DASHBOARD/assets/103510169/a6d46dfe-147a-4297-804d-7985dcc81796)
+![mera DB 2](https://github.com/hritik2614/IPL_Dashboard/assets/139587291/05f0952f-f9cf-4047-94d2-52b587bf11ed)
+
+
 
 
 # Key features of this IPL statistics dashboard 
